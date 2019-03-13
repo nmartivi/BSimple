@@ -323,13 +323,13 @@ hr {
 }
 
 /* ==========================================================================
-  8. Features Section Style
+  8. app Section Style
    ========================================================================== */
-#features {
+#app {
   background: #fff;
 }
 
-#features .icon {
+#app .icon {
   display: inline-block;
   width: 60px;
   height: 60px;
@@ -339,19 +339,19 @@ hr {
   z-index: 1;
 }
 
-#features .content-left span {
+#app .content-left span {
   float: right;
 }
 
-#features .content-left .text {
+#app .content-left .text {
   text-align: right;
 }
 
-#features .content-right span {
+#app .content-right span {
   float: left;
 }
 
-#features .box-item {
+#app .box-item {
   box-shadow: 0 0 12px #F4F4F4;
   padding: 15px;
   line-height: 22px;
@@ -365,7 +365,7 @@ hr {
   top: 0;
 }
 
-#features .box-item .icon {
+#app .box-item .icon {
   text-align: center;
   margin: 12px;
   -webkit-transition: all 0.2s linear;
@@ -374,7 +374,7 @@ hr {
   transition: all 0.2s linear;
 }
 
-#features .box-item .icon i {
+#app .box-item .icon i {
   color: #cd95ff;
   font-size: 30px;
   -webkit-transition: all 0.2s linear;
@@ -383,7 +383,7 @@ hr {
   transition: all 0.2s linear;
 }
 
-#features .box-item .text h4 {
+#app .box-item .text h4 {
   cursor: pointer;
   font-size: 18px;
   font-weight: 500;
@@ -394,24 +394,24 @@ hr {
   transition: all 0.2s linear;
 }
 
-#features .box-item .text p {
+#app .box-item .text p {
   font-size: 14px;
   line-height: 26px;
 }
 
-#features .box-item:hover {
+#app .box-item:hover {
   box-shadow: 0 10px 22px 10px rgba(27, 38, 49, 0.1);
 }
 
-#features .box-item:hover h4 {
+#app .box-item:hover h4 {
   color: #cd95ff;
 }
 
-#features .show-box {
+#app .show-box {
   margin-top: 50px;
 }
 
-#features .show-box img {
+#app .show-box img {
   width: 100%;
 }
 
